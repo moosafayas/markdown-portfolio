@@ -1,1 +1,3 @@
-Replace this with your name, and include a header.
+# <h1> Iam Fayas </h1>
+## <h2> Iam a Techie </h2>
+### <h3> lets inspire the world </h3>
